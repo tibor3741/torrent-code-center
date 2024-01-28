@@ -9,10 +9,22 @@ Az alkalmazás lehetővé teszi a felhasználók számára, hogy könnyen kezelj
 3. Másold ki a kódot, majd illeszd be a torrentoldalon a keresési lekérdezéshez.
 
 ## Telepítés
-
-1. Klónozd le a projektet a saját számítógépedre.
-2. Nyisd meg a projekt gyökérkönyvtárát egy IDE-ben vagy szövegszerkesztőben.
-3. Futtasd az alkalmazást a következő paranccsal: `python your_app_file.py`
+Klónozd le a projektet a saját számítógépedre.
+   ```text
+  git clone https://github.com/tibor3741/torrent-code-center
+  ```
+Navigálj a projekt könyvtárba.
+```text 
+cd projekt
+```
+Telepítsd a szükséges csomagokat.
+```text
+pip install -r requirements.txt
+```
+Futtasd az alkalmazást.
+```text
+python main.py
+```
 
 ## Tesztelés
 
