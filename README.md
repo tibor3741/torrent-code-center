@@ -17,6 +17,16 @@ Navigálj a projekt könyvtárba.
 ```text 
 cd projekt
 ```
+A hozz létre egy virtuális környezetet. 
+```text 
+python -m venv myenv
+```
+Aktiváld a virtuális környezetet. A parancs eltér a rendszertől:
+Windows-on:```text 
+.\myenv\Scripts\activate
+Linux/Mac-en:```text 
+source myenv/bin/activate
+```
 Telepítsd a szükséges csomagokat.
 ```text
 pip install -r requirements.txt
