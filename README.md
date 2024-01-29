@@ -23,11 +23,11 @@ python -m venv myenv
 ```
 Aktiváld a virtuális környezetet. A parancs eltér a rendszertől:
 
-#Windows-on: 
+Windows-on: 
 ```text 
 .\myenv\Scripts\activate
 ```
-#Linux/Mac-en:
+Linux/Mac-en:
 ```text 
 source myenv/bin/activate
 ```
