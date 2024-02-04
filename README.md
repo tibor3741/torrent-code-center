@@ -21,7 +21,7 @@ Klónozd le a projektet a saját számítógépedre.
   ```
 Navigálj a projekt könyvtárba.
 ```text 
-cd projekt
+cd torrent-code-center
 ```
 A hozz létre egy virtuális környezetet. 
 ```text 
