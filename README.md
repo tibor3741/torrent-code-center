@@ -2,9 +2,7 @@
 
 Az alkalmazás lehetővé teszi a felhasználók számára, hogy könnyen kezeljék és generálják a különböző streaming szolgáltatásokhoz tartozó torrent kódokat. Válassz ki egy streaming szolgáltatást, és az alkalmazás megjeleníti a hozzá tartozó kódot, amit másolhatsz és beilleszthetsz a torrentoldalon. Így könnyedén rá tudsz szűrni azokra a torrentekre, amelyeket a kiválasztott szolgáltatótól szeretnél nézni.
 
-
-![torrent-code-center (1)](https://github.com/tibor3741/torrent-code-center/assets/36704519/bfc75caa-0c75-4c3c-9732-5be685b21d8f)
-
+![Code center](https://github.com/tibor3741/torrent-code-center/assets/36704519/3ef53e6b-a412-42e0-981d-f8bc22cb44fc)
 
 
 ## Használat
