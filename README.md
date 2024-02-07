@@ -53,6 +53,7 @@ Az alkalmazás sikeresen tesztelve lett a következő weboldalakon:
 - [Huntorrent](https://huntorrent.net)
 - [TorrentGalaxy](https://torrentgalaxy.to)
 - [RARBG](https://rarbg.to)
+- [eStone](https://estone.cc)
 
 ## Programhasználat és Tevékenységek
 
